@@ -1,3 +1,1 @@
-
-rootProject.name = "sub"
-
+rootProject.name = "test-kotlin-gradle-assignment-teacher"
